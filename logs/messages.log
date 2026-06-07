@@ -1,0 +1,10 @@
+2026-06-07 12:38:56,405 - Phone:+923001111111 | Status:Sent | Message:hy
+2026-06-07 12:39:16,770 - Phone:923001111111 | Status:Failed | Message:expected string or bytes-like object, got 'int'
+2026-06-07 12:39:16,771 - Phone:923002222222 | Status:Failed | Message:expected string or bytes-like object, got 'int'
+2026-06-07 12:39:16,771 - Phone:923003333333 | Status:Failed | Message:expected string or bytes-like object, got 'int'
+2026-06-07 12:51:26,007 - Phone:+923001111111 | Status:Sent | Message:Hi Ali, exclusive offer available for you today.
+2026-06-07 12:51:49,688 - Phone:+923003333333 | Status:Sent | Message:Hi Sara, exclusive offer available for you today.
+2026-06-07 12:58:50,163 - Phone:923001111111 | Status:Failed | Message:argument of type 'int' is not iterable
+2026-06-07 12:58:50,165 - Phone:923002222222 | Status:Failed | Message:argument of type 'int' is not iterable
+2026-06-07 12:58:50,165 - Phone:923003333333 | Status:Failed | Message:argument of type 'int' is not iterable
+2026-06-07 21:15:25,500 - Phone:+923126571098 | Status:Sent | Message:l

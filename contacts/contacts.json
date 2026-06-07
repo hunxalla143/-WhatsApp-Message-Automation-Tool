@@ -1,0 +1,12 @@
+[
+  {
+    "name":"Ali",
+    "course":"Python",
+    "phone":"+923001111111"
+  },
+  {
+    "name":"Sara",
+    "course":"AI",
+    "phone":"+923003333333"
+  }
+]

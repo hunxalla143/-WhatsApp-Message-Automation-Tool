@@ -1,0 +1,10 @@
+{
+  "course_reminder":
+  "Hello {name}, your {course} class starts tomorrow at 9 AM.",
+
+  "marketing":
+  "Hi {name}, exclusive offer available for you today.",
+
+  "event":
+  "Dear {name}, thank you for registering for {course}."
+}
